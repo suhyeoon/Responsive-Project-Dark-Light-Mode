@@ -262,6 +262,69 @@ body .button-one:hover {background:#000f32; }
 }
 .partner-section img {margin: 0 auto;}
 
+.project-details .main-title {font-size: 30px;margin-bottom: 15px;}
+.project-details .project-details-sidebar p {padding-bottom: 15px;}
+.project-details .project-details-sidebar .project-history {margin: 0 -5px;padding-top: 15px;}
+.project-details .project-details-sidebar .project-history li {
+  float: left;
+  width: 50%;
+  padding: 0 5px;
+  margin-bottom: 25px;
+}
+.project-details .project-details-sidebar .social-icon li {display: inline-block;}
+.project-details .project-details-sidebar .social-icon li a {
+  color: #555555;
+  font-size: 15px;
+  margin-right: 15px;
+}
+.project-details .project-details-sidebar .charts {padding-top: 60px;}
+.project-details .image-col img {border-radius: 5px;margin-bottom: 25px;}
+.project-details .image-col img:last-child {margin-bottom: 0;}
+.project-details #chartContainer {width: 100%;height: 300px;margin-top: 20px;}
+
+.service-details .service-content .cover-img {border-radius: 5px;margin-bottom: 25px;}
+.service-details .service-content .main-title {font-size: 30px;margin-bottom: 15px;}
+.service-details .service-content p {padding-bottom: 25px;}
+.service-details .service-content .sub-heading {font-weight: normal;margin-bottom: 15px;}
+.service-details .service-content .presentation-section {padding: 30px 0 55px 0;}
+.service-details .service-content .presentation-section .best-list-item li {
+  position: relative;
+  margin: 12px 0 0 0;
+  padding: 0 0 4px 90px;
+}
+.service-details .service-content .presentation-section .best-list-item li:last-child {margin-bottom: 0;}
+.service-details .service-content .presentation-section .best-list-item li h5 {margin-bottom: 10px;}
+.service-details .service-content .presentation-section .best-list-item li .icon {
+  position: absolute;
+  top:-10px;
+  left:0;
+  font-size: 60px;
+}
+.service-details .service-content .presentation-section .chart {margin: 0 auto;}
+.service-details .service-content .accordion-one .panel-group .panel-body p {padding: 0;}
+.service-details .service-content .market-growth {padding-top: 65px;}
+.service-details .service-content .market-growth .wrapper {padding-top: 20px;}
+.service-details .service-content .market-growth img {width: 100%;border-radius: 5px;}
+.service-details .service-content .market-growth ul {padding-left: 18px;}
+.service-details .service-content .market-growth ul li {
+  line-height: 34px;
+  font-style: italic;
+  padding-left: 18px;
+  position: relative;
+}
+.service-details .service-content .market-growth ul li:before {
+  content: '';
+  font-family: 'font-awesome';
+  font-size: 12px;
+  color: #232323;
+  line-height: 34px;
+  position: absolute;
+  left:0;
+  top:0;
+  font-style: normal;
+  font-weight: 700;
+}
+
 .footer-one .top-footer {background: #001648;padding: 80px 0 75px 0;}
 .footer-one .top-footer .title {
   color: #fff;
